@@ -9,7 +9,7 @@
 
 ## Весенний семестр 2022
 Доступен [шаблон](./Latex) LaTeX для типовика, который можно открыть онлайн в [Overleaf](https://www.overleaf.com/) или офлайн в [TexStudio](https://www.texstudio.org/) (или аналоге).
-К шаблону вдовесок идёт [книжка про Latex на русском языке](./LaTeX-Lvovsky.pdf).
+К шаблону вдовесок идёт [книжка про LaTeX на русском языке](./LaTeX-Lvovsky.pdf).
 
 ---
 
