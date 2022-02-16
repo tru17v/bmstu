@@ -8,9 +8,20 @@
 >Квокка — маленькое сумчатое травоядное млекопитающее, принадлежит к семейству кенгуровых. Обитает на островах и небольшом участке побережья на юго-западе Австралии. Другое название — короткохвостый кенгуру. Квокка милый и смешной зверек, известен как самое улыбчивое животное в мире.
 
 ## Весенний семестр 2022
-Доступен [шаблон](./Latex) Latex для типовика, который можно открыть [онлайн](https://www.overleaf.com/) или офлайн в [TexStudio](https://www.texstudio.org/) (или аналоге).
-К шаблону вдовесок идёт [книжка про Latex на русском языке](./LaTeX-Lvovsky.pdf).
+Доступен [шаблон](./Latex) LaTeX для типовика, который можно открыть онлайн в [Overleaf](https://www.overleaf.com/) или офлайн в [TexStudio](https://www.texstudio.org/) (или аналоге).
+К шаблону вдовесок идёт [книжка про LaTeX на русском языке](./LaTeX-Lvovsky.pdf).
 
+---
+
+Линейная алгебра - ТР1:
+
+[МТ5-21](https://github.com/tru17v/bmstu/blob/main/TR1/%D0%9C%D0%A25-21-task.pdf)
+
+[МТ6-21](https://github.com/tru17v/bmstu/blob/main/TR1/%D0%9C%D0%A26-21-task.pdf)
+
+[МТ12-21](https://github.com/tru17v/bmstu/blob/main/TR1/%D0%9C%D0%A212-21-task.pdf)
+
+---
 Гугл-формы для типовиков:
 
 [БМТ2-22Б](https://docs.google.com/forms/d/e/1FAIpQLSfuteno0EmeAPVw6Cy2ROhLUYlGwqxSaNS3W_xsINIQV8EW4w/viewform?usp=sf_link)
