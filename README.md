@@ -11,14 +11,14 @@
 Доступен [шаблон](./Latex) LaTeX для типовика, который можно открыть онлайн в [Overleaf](https://www.overleaf.com/) или офлайн в [TexStudio](https://www.texstudio.org/) (или аналоге).
 К шаблону вдовесок идёт [книжка про LaTeX на русском языке](./LaTeX-Lvovsky.pdf).
 
+Линейная алгебра:
 ---
 
-Линейная алгебра - ТР1:
+Задачник:
+[А.Ф. Ефимов, Б.П. Демидович - сборник задач для технических вузов в 4-х частях. Часть 1.](https://github.com/tru17v/bmstu/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%BD%D0%B8%D0%BA%20-%20%D0%9B%D0%90.pdf)
 
-[МТ5-21](https://github.com/tru17v/bmstu/blob/main/TR1/%D0%9C%D0%A25-21-task.pdf)
-
+Варианты ТР1 по группам: [МТ5-21](https://github.com/tru17v/bmstu/blob/main/TR1/%D0%9C%D0%A25-21-task.pdf)
 [МТ6-21](https://github.com/tru17v/bmstu/blob/main/TR1/%D0%9C%D0%A26-21-task.pdf)
-
 [МТ12-21](https://github.com/tru17v/bmstu/blob/main/TR1/%D0%9C%D0%A212-21-task.pdf)
 
 ---
