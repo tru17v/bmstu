@@ -6,8 +6,8 @@
 - [ТФКП](./plans/Календ_план_ТФКП_ОИ_4_сем_МТ_РК4_2017.pdf)
 
 ## LaTeX
-- Шаблон ИиДУ: [архив](./latex/BMSTU_template_IiDU.zip), [pdf](./latex/BMSTU_template_IiDU.pdf) 
-- Шаблон ЛА: [архив](./latex/BMSTU_template_LA.zip), [pdf](./latex/BMSTU_template_LA.pdf) 
+- Шаблон ИиДУ: [архив](./Latex/BMSTU_template_IiDU.zip), [pdf](./Latex/BMSTU_template_IiDU.pdf) 
+- Шаблон ЛА: [архив](./Latex/BMSTU_template_LA.zip), [pdf](./Latex/BMSTU_template_LA.pdf) 
 - [Overleaf](https://www.overleaf.com/)
 - [TexStudio](https://www.texstudio.org/)
 
