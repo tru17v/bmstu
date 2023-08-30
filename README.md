@@ -1,28 +1,36 @@
-  # BMSTU
-## upd. 20.02.2023
-Добавлена папка [TFKP](./TFKP), в которой лежит [ноутбук](./TFKP/Fourier_series.ipynb) с примером построения графиков для ТР1. 
-Уcловие задачки взято с семинара.
-В этой же папке лежит [файл с расширением .eps](./TFKP/Fourier_series.eps) - это изображение в векторном формате. Для оформления ТР можно отредактировать ноутбук и получить такое же изображение для своего варианта, которое надо скормить в LaTeX. Подробности скармливания в [документации](https://www.overleaf.com/learn/latex/Inserting_Images).
+  # BMSTU - Осень 2023
 
-Добавлены календарные планы по [ИиДУ](./Календ_план_Интегр_ДУ_Упр_2018_МТ_РК_Э5.pdf) и [ТФКП](./Календ_план_ТФКП_ОИ_4_сем_МТ_РК4_2017.pdf), в них вы можете найти номера задач для домашки.
+## Календарные планы
+- [ИиДУ](./plans/Календ_план_Интегр_ДУ_Упр_2018_МТ_РК_Э5.pdf)
+- [КИ](./plans/Kalend_plan_Kratn_Integr_Ryady_3_sem_Uprazhn_RK_2019.pdf)
+- [ТФКП](./plans/Календ_план_ТФКП_ОИ_4_сем_МТ_РК4_2017.pdf)
 
-Добавлен задачник [Ефимов-Демидович, том 2](./Efimov-Demidovich_2tom_1986.djvu) для курса ТФКП.
-## Весна  2023
-Доступны архивы с шаблонами в [папке LaTeX](./Latex) для типовиков по ИиДУ и ЛА, там же лежат pdf - с примерами.
-Шаблоны можно открыть онлайн в [Overleaf](https://www.overleaf.com/) или офлайн в [TexStudio](https://www.texstudio.org/) (или аналоге), для этого надо ___распаковать архив и не забыть картинку___.
+## LaTeX
+- Шаблон ИиДУ: [архив](./latex/BMSTU_template_IiDU.zip), [pdf](./latex/BMSTU_template_IiDU.pdf) 
+- Шаблон ЛА: [архив](./latex/BMSTU_template_LA.zip), [pdf](./latex/BMSTU_template_LA.pdf) 
+- [Overleaf](https://www.overleaf.com/)
+- [TexStudio](https://www.texstudio.org/)
 
-К шаблону вдовесок идёт [книжка про LaTeX на русском языке](./LaTeX-Lvovsky.pdf).
+## Python
 
-## Гугл-формы для типовиков:
+- [Прошлогодние материалы для ФН-1](https://tru17v.github.io/bmstu-python/)
+- [Пример построения графика для ТФКП](./TFKP/Fourier_series.ipynb)
 
-[МТ5-21](https://forms.gle/8ApuiPGE36JK8i5H9)
 
-[Э5-41](https://forms.gle/5uGyD2U5Su7EtaRB6)
+## Книги
+- [Демидович - Сборник задач по математическому анализу](./books/B_P_Demidovich_Sbornik_zadach_i_uprazhneniy_po_matematicheskomu_analizu.pdf) 
+- [Ефимов-Демидович, том 1](./books/Efimova_i_Demidovich_Sbornik_zadach_dlya_vtuzov_1993.pdf) 
+- [Ефимов-Демидович, том 2](./books/Efimov-Demidovich_2tom_1986.djvu)
+- [Львовский - LaTeX](./books/LaTeX-Lvovsky.pdf)
 
----
+## Гугл-формы для типовиков и отчётов:
 
-Астрологи объявили семестр енотов и берёз. Не то чтобы эта зверушка была тотемной, но интересные факты про них могут помочь при защите ТР, если кому-то вдруг будет совсем больно.
+- [МТ1-31](https://forms.gle/Q8GvPJEHsrL69V6K6)
+- [МТ3-39](https://forms.gle/QGqfRnbqhMWnWXP28)
+- [МТ6-31Б](https://forms.gle/G4UJMYBCP2wUv9nL6)
+- [СГН3-51Б](https://forms.gle/wx7uXuckX82izwVC6)
+- [СГН3-52Б](https://forms.gle/BqFmMu99s4kRRXA68)
+- [СГН3-53Б](https://forms.gle/8NF1TrziGJV1JL2e7)
+- [СГН3-54Б](https://forms.gle/Cus92A13wRMgako19)
+- [Э5-31](https://forms.gle/fcsLBp5oFj3S2MSy7)
 
-<p align="center">
-  <img width="460" height="300" src="./system/enot.jpg">
-</p>
