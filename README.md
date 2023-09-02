@@ -37,7 +37,7 @@
 - [Пример построения графика для ТФКП](./TFKP/Fourier_series.ipynb)
 
 ## Книги
-- [Демидович - Сборник задач по математическому анализу](./books/B_P_Demidovich_Sbornik_zadach_i_uprazhneniy_po_matematicheskomu_analizu.pdf) 
+- [Демидович - Сборник задач по математическому анализу](./books/Задачи_и_упражнения_по_математическому_анализу_для_втузов_Под_редакцией.pdf) 
 - [Ефимов-Демидович, том 1](./books/Efimova_i_Demidovich_Sbornik_zadach_dlya_vtuzov_1993.pdf) 
 - [Ефимов-Демидович, том 2](./books/Efimov-Demidovich_2tom_1986.djvu)
 - [Львовский - LaTeX](./books/LaTeX-Lvovsky.pdf)
