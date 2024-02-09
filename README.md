@@ -7,6 +7,8 @@
 
 ## Результаты
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ6LMOuebHpUqNVTXSBS1zFgPYaw6EnJP0gexTkiKyd9RfTdEUtqn-55RKb-7LMI9VH-nrvvB_8qXs/pubhtml?widget=true&amp;headers=false"></iframe>
+
 Результаты проверки дз и контрольных будут обновляться [по этой ссылке](https://docs.google.com/spreadsheets/d/167x5YqNAqdvcrBwXeHqb2jteVX9OAK02HlIhgHgLkqo/edit?usp=sharing)
 
 ## Календарные планы
